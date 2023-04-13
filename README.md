@@ -5,7 +5,7 @@
 ##### Requirements
 
 1. Should have installed Maven.
-2. Navigate to wordle, where pom.xml file is present.
+2. Navigate to wordle, where pom.xml file is present.(`cd Wordle/wordle/`)
 
 ##### Building the project
 Navigate to wordle dir
