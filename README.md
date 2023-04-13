@@ -1,4 +1,4 @@
-# SEP Practical-1
+# Wordle
 
 ### Build
 
